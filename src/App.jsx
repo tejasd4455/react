@@ -97,18 +97,6 @@ export default App
 
 
 
-// veriable const()9 ^ 'tejas deshmukh', "tejas deshmukh "
-
-// add person with name  Teju Deshmukh.
-// what is your super hero terminal (i= , i<=5, i++)
-
-// name = "tejas deshmukh"
-// print(name.find('a'))
-
-
-// print(5 // 2)
-
-// not= every one are true/false, reverce.
 
 
 
